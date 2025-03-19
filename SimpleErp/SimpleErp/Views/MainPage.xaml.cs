@@ -1,4 +1,4 @@
-﻿namespace SimpleErp
+﻿namespace SimpleErp.Views
 {
     public partial class MainPage : ContentPage
     {

@@ -5,11 +5,11 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:SimpleErp"
     Shell.FlyoutBehavior="Disabled"
-    Title="SimpleErp">
+    Title="SimpleErp.Views">
 
     <ShellContent
         Title="Home"
-        ContentTemplate="{DataTemplate local:WelcomePage}"
+        ContentTemplate="{DataTemplate local:Views.LoginPage}"
         Route="MainPage" />
 
 </Shell>
