@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SimpleErp.WelcomePage"
+             Title="">
+    
+    <VerticalStackLayout>
+        <Label 
+            Text="Welcome to SimpleErp"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            FontSize="34"
+            TextColor="#B44E05"
+            Margin="0,100,0,0"
+            Padding="10,10,10,10"/>
+
+        <Label
+            Text="Your trusted enterprise resource planning software"
+            HorizontalOptions="Center"
+            Margin="0,50,0,0"
+            Padding="10,10,10,10"/>
+
+        <Entry
+            x:Name="Email"
+            Placeholder="Email"
+            Keyboard="Email"
+            Margin="40,80,40,0"
+            />
+
+        <Entry
+             x:Name="Password"
+             Placeholder="Password"
+             IsPassword="True"
+             Margin="40,10,40,0"
+             />
+
+        <Button
+            x:Name="Login"
+            Text="Login"
+            BackgroundColor="#B44E05"
+            TextColor="White"
+            Margin="40,10,40,0"
+            />
+
+        <Label
+            Text="Not an existing user?"
+            HorizontalOptions="Center"
+
+            Margin="40,100,40,0"
+            />
+        <Button
+            x:Name="Signup"
+            Text="Signup"
+            BackgroundColor="#B44E05"
+            TextColor="White"
+            Margin="40,10,40,0"
+            />
+        
+    </VerticalStackLayout>
+</ContentPage>

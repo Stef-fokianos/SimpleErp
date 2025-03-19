@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\WelcomePage.xaml.cs",
+              "RelativeDocumentMoniker": "SimpleErp\\WelcomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\WelcomePage.xaml.cs",
+              "RelativeToolTip": "SimpleErp\\WelcomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:52:39.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "SimpleErp\\WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\WelcomePage.xaml",
+              "RelativeToolTip": "SimpleErp\\WelcomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T09:52:09.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "SimpleErp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\AppShell.xaml",
+              "RelativeToolTip": "SimpleErp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T09:39:33.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\App.xaml",
+              "RelativeDocumentMoniker": "SimpleErp\\App.xaml",
+              "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\App.xaml",
+              "RelativeToolTip": "SimpleErp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T09:39:31.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "SimpleErp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\MainPage.xaml.cs",
+              "RelativeToolTip": "SimpleErp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:23:03.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "SimpleErp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\MainPage.xaml",
+              "RelativeToolTip": "SimpleErp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T09:23:01.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
