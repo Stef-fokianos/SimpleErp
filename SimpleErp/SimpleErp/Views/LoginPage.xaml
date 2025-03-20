@@ -25,6 +25,7 @@
             Placeholder="Email"
             Keyboard="Email"
             Margin="40,80,40,0"
+            Text="{Binding Email}"
             />
 
         <Entry
@@ -32,6 +33,7 @@
              Placeholder="Password"
              IsPassword="True"
              Margin="40,10,40,0"
+            Text="{Binding Password}"
              />
 
         <Button
@@ -40,6 +42,7 @@
             BackgroundColor="#B44E05"
             TextColor="White"
             Margin="40,10,40,0"
+            Command="{Binding LoginCommand}"
             />
 
         <Label
@@ -54,6 +57,7 @@
             BackgroundColor="#B44E05"
             TextColor="White"
             Margin="40,10,40,0"
+             Command="{Binding NavigateToSignupCommand}"
             />
         
     </VerticalStackLayout>
