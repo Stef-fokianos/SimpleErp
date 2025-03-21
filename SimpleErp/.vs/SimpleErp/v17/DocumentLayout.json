@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +27,24 @@
       "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\data\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\data\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -33,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|solutionrelative:simpleerp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18F2BED1-5258-44C5-A98B-6EE32B8506F8}|SimpleErp\\SimpleErp.csproj|c:\\users\\sf319\\documents\\simpleerp\\simpleerp\\simpleerp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -50,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,33 +74,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "SimpleErp\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Data\\Database.cs",
+              "RelativeToolTip": "SimpleErp\\Data\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:59:26.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Data\\Admin.cs",
+              "RelativeDocumentMoniker": "SimpleErp\\Data\\Admin.cs",
+              "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Data\\Admin.cs",
+              "RelativeToolTip": "SimpleErp\\Data\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:57:15.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Data\\User.cs",
+              "RelativeDocumentMoniker": "SimpleErp\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Data\\User.cs",
+              "RelativeToolTip": "SimpleErp\\Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:56:52.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Data\\Person.cs",
+              "RelativeDocumentMoniker": "SimpleErp\\Data\\Person.cs",
+              "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Data\\Person.cs",
+              "RelativeToolTip": "SimpleErp\\Data\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:39:10.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SignupViewModel.cs",
               "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\ViewModels\\SignupViewModel.cs",
               "RelativeDocumentMoniker": "SimpleErp\\ViewModels\\SignupViewModel.cs",
               "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\ViewModels\\SignupViewModel.cs",
               "RelativeToolTip": "SimpleErp\\ViewModels\\SignupViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T10:24:30.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "SimpleErp\\ViewModels\\LoginViewModel.cs",
               "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "SimpleErp\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T11:12:45.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SignupPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Views\\SignupPage.xaml.cs",
               "RelativeDocumentMoniker": "SimpleErp\\Views\\SignupPage.xaml.cs",
@@ -97,20 +165,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SignupPage.xaml",
               "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Views\\SignupPage.xaml",
               "RelativeDocumentMoniker": "SimpleErp\\Views\\SignupPage.xaml",
               "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Views\\SignupPage.xaml",
               "RelativeToolTip": "SimpleErp\\Views\\SignupPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-20T10:18:34.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Views\\LoginPage.xaml",
               "RelativeDocumentMoniker": "SimpleErp\\Views\\LoginPage.xaml",
@@ -123,20 +191,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "LoginPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Views\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "SimpleErp\\Views\\LoginPage.xaml.cs",
               "ToolTip": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Views\\LoginPage.xaml.cs",
               "RelativeToolTip": "SimpleErp\\Views\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T09:52:39.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\AppShell.xaml",
               "RelativeDocumentMoniker": "SimpleErp\\AppShell.xaml",
@@ -149,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\App.xaml",
               "RelativeDocumentMoniker": "SimpleErp\\App.xaml",
@@ -157,7 +225,8 @@
               "RelativeToolTip": "SimpleErp\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-19T09:39:31.671Z"
+              "WhenOpened": "2025-03-19T09:39:31.671Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -169,11 +238,12 @@
               "RelativeToolTip": "SimpleErp\\Views\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T09:23:03.082Z"
+              "WhenOpened": "2025-03-19T09:23:03.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\sf319\\Documents\\SimpleErp\\SimpleErp\\SimpleErp\\Views\\MainPage.xaml",
               "RelativeDocumentMoniker": "SimpleErp\\Views\\MainPage.xaml",
@@ -181,7 +251,8 @@
               "RelativeToolTip": "SimpleErp\\Views\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-19T09:23:01.393Z"
+              "WhenOpened": "2025-03-19T09:23:01.393Z",
+              "EditorCaption": ""
             }
           ]
         }
