@@ -61,11 +61,6 @@ namespace SimpleErp.ViewModels
 
         }
 
-        //public bool IsPasswordValid(string _password)
-        //{
-              
-        //}
-
         //login debug 
         //
            //if (IsValidEmail(_email))
